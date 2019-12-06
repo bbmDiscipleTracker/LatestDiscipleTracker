@@ -1,0 +1,173 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Stimulsoft.System.Web</name>
+    </assembly>
+    <members>
+        <member name="P:Stimulsoft.System.Web.HttpContext.CoreHttpContext">
+            <summary>
+            Gets the Microsoft.AspNetCore.Http.HttpContext for the executing action.
+            </summary>
+        </member>
+        <member name="P:Stimulsoft.System.Web.HttpContext.Request">
+            <summary>
+            Gets the System.Web.HttpRequest object for the current HTTP request.
+            </summary>
+        </member>
+        <member name="P:Stimulsoft.System.Web.HttpContext.Response">
+            <summary>
+            Gets the System.Web.HttpResponse object for the current HTTP response.
+            </summary>
+        </member>
+        <member name="P:Stimulsoft.System.Web.HttpContext.Cache">
+            <summary>
+            Gets the System.Web.Caching.Cache object for the current application domain.
+            </summary>
+        </member>
+        <member name="P:Stimulsoft.System.Web.HttpContext.Session">
+            <summary>
+            Gets the System.Web.SessionState.HttpSessionState object for the current HTTP request.
+            </summary>
+        </member>
+        <member name="P:Stimulsoft.System.Web.HttpContext.Server">
+            <summary>
+            Gets the System.Web.HttpServerUtility object that provides methods used in processing Web requests.
+            </summary>
+        </member>
+        <member name="P:Stimulsoft.System.Web.HttpCookieCollection.CoreCookies">
+            <summary>
+            Gets the collection of Cookies for this request.
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.System.Web.HttpCookieCollection.Get(System.String)">
+            <summary>
+            Returns the cookie with the specified name from the cookie collection.
+            </summary>
+        </member>
+        <member name="P:Stimulsoft.System.Web.HttpCookieCollection.AllKeys">
+            <summary>
+            Gets a string array containing all the keys (cookie names) in the cookie collection.
+            </summary>
+        </member>
+        <member name="P:Stimulsoft.System.Web.HttpCookieCollection.Count">
+            <summary>
+            Gets the number of key/value pairs contained in the System.Collections.Specialized.NameObjectCollectionBase instance.
+            </summary>
+        </member>
+        <member name="P:Stimulsoft.System.Web.HttpRequest.CoreRequest">
+            <summary>
+            Gets the Microsoft.AspNetCore.Http.HttpRequest object for this request.
+            </summary>
+        </member>
+        <member name="P:Stimulsoft.System.Web.HttpRequest.Body">
+            <summary>
+            Gets or set the RequestBody Stream.
+            </summary>
+        </member>
+        <member name="P:Stimulsoft.System.Web.HttpRequest.Query">
+            <summary>
+            Gets the query value collection parsed from Request.QueryString.
+            </summary>
+        </member>
+        <member name="P:Stimulsoft.System.Web.HttpRequest.QueryString">
+            <summary>
+            Gets the collection of HTTP query string variables.
+            </summary>
+        </member>
+        <member name="F:Stimulsoft.System.Web.HttpRequest.paramss">
+            <summary>
+             Gets a combined collection of System.Web.HttpRequest.QueryString and System.Web.HttpRequest.Body items.
+            </summary>
+        </member>
+        <member name="F:Stimulsoft.System.Web.HttpRequest.form">
+            <summary>
+            Gets a collection of form variables.
+            </summary>
+        </member>
+        <member name="P:Stimulsoft.System.Web.HttpRequest.Method">
+            <summary>
+            Gets or set the HTTP method.
+            </summary>
+        </member>
+        <member name="P:Stimulsoft.System.Web.HttpRequest.ContentLength">
+            <summary>
+            Gets or sets the Content-Length header
+            </summary>
+        </member>
+        <member name="P:Stimulsoft.System.Web.HttpRequest.ContentType">
+            <summary>
+            Gets or sets the Content-Type header.
+            </summary>
+        </member>
+        <member name="P:Stimulsoft.System.Web.HttpRequest.Cookies">
+            <summary>
+            Gets a collection of cookies sent by the client.
+            </summary>
+        </member>
+        <member name="P:Stimulsoft.System.Web.HttpRequest.Url">
+            <summary>
+            Gets information about the URL of the current request.
+            </summary>
+        </member>
+        <member name="P:Stimulsoft.System.Web.HttpResponseBase.CoreResponse">
+            <summary>
+            Gets the Microsoft.AspNetCore.Http.HttpResponse object for this request.
+            </summary>
+        </member>
+        <member name="P:Stimulsoft.System.Web.HttpResponseBase.Cache">
+            <summary>
+            Gets the caching policy (such as expiration time, privacy settings, and vary clauses) of a Web page.
+            </summary>
+        </member>
+        <member name="P:Stimulsoft.System.Web.HttpResponseBase.StatusCode">
+            <summary>
+            Gets or sets the HTTP status code of the output returned to the client.
+            </summary>
+        </member>
+        <member name="P:Stimulsoft.System.Web.HttpResponseBase.ContentType">
+            <summary>
+            Gets or sets the HTTP MIME type of the output stream.
+            </summary>
+        </member>
+        <member name="P:Stimulsoft.System.Web.HttpResponseBase.ContentEncoding">
+            <summary>
+            Gets or sets the HTTP character set of the output stream.
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.System.Web.HttpResponseBase.AddHeader(System.String,System.String)">
+            <summary>
+            Adds an HTTP header to the output stream.
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.System.Web.HttpResponseBase.AppendHeader(System.String,System.String)">
+            <summary>
+            Adds an HTTP header to the output stream.
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.System.Web.HttpResponseBase.BinaryWrite(System.Byte[])">
+            <summary>
+            Writes a string of binary characters to the HTTP output stream.
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.System.Web.HttpResponseBase.ClearContent">
+            <summary>
+            Clears all content output from the buffer stream.
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.System.Web.HttpResponseBase.ClearHeaders">
+            <summary>
+            Clears all headers from the buffer stream.
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.System.Web.HttpServerUtility.MapPath(System.String)">
+            <summary>
+            Returns the physical file path in the application content folder that corresponds to the specified virtual path on the Web server.
+            </summary>
+        </member>
+        <member name="M:Stimulsoft.System.Web.HttpServerUtility.MapRootPath(System.String)">
+            <summary>
+            Returns the physical file path in the application wwwroot folder that corresponds to the specified virtual path on the Web server.
+            </summary>
+        </member>
+    </members>
+</doc>
