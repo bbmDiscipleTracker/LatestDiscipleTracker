@@ -1,0 +1,59 @@
+﻿body {
+    width: 980px;
+    margin: 0 auto;
+    font-family: “adelle-sans”,Helvetica,Arial,sans-serif;
+    background: #999999;
+    color: #000000;
+}
+/***************************************************************/
+/* WRAPPER(PAGE EFFECT)*/
+/***************************************************************/
+#wrapper {
+    background: #ffffff;
+    width: 500px;
+    margin: 140px 200px;
+    border: 1px solid #999999;
+    float: none;
+}
+/***************************************************************/
+/*Login Heading*/
+/***************************************************************/
+.form h2 {
+    text-align: center;
+    padding: 10px 20px 0px 20px;
+    color: #999999;
+}
+
+.form {
+    float: none;
+}
+
+.content {
+    padding: 0px 0px;
+    text-align: center;
+}
+
+.element {
+    padding: 10px 0px;
+    margin-left: 0px;
+}
+/***************************************************************/
+/* TEXTBOX, TEXTAREA AND LABELS */
+/***************************************************************/
+input[type=”text”], input[type=”password”] {
+    width: 250px;
+    height: 30px;
+    border-radius: 4px;
+    border: 1px solid #999999;
+    font-size: 18px;
+    padding: 10px;
+    color: #999999;
+}
+
+#label {
+    padding: 10px 60px 10px 10px;
+    color: #999999;
+    font-weight: bold;
+    display: inline-block;
+    width: 100px;
+}

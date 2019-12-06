@@ -1,0 +1,14 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind=".master.cs" Inherits="Discipleship.nestedadmin" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
+     <link href="source/styles.css" rel="stylesheet" />
+      <div class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav">
+                        <li class='active'><a runat="server" href="~/Pastor/newdisciple">New Disciple</a></li>
+                        <li class='active'><a runat="server" href="~/Pastor/summary">Discipleship Summary</a></li>
+                    </ul>
+                </div>
+        <asp:ContentPlaceHolder ID="nestedContent" runat="server">
+            <br />
+            <br />
+            </asp:ContentPlaceHolder>
+</asp:Content>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <setParameter name="IIS Web Application Name" value="DiscipleTracker" />
+  <setParameter name="ConnectionString-Web.config Connection String" value="Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=&quot;C:\Users\Lindani Mabaso\3D Objects\Discipleship\Discipleship\App_Data\bbmDatabase.mdf&quot;;Integrated Security=True;Connect Timeout=30" />
+  <setParameter name="ConnectionString-Deployment Connection String" value="Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=&quot;C:\Users\Lindani Mabaso\3D Objects\Discipleship\Discipleship\App_Data\bbmDatabase.mdf&quot;;Integrated Security=True;Connect Timeout=30" />
+</parameters>

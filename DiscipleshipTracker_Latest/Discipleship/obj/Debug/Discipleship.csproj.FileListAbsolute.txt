@@ -1,0 +1,643 @@
+C:\Users\paran\OneDrive\Desktop\Burning Bush\Discipleship\Discipleship\bin\Discipleship.dll.config
+C:\Users\paran\OneDrive\Desktop\Burning Bush\Discipleship\Discipleship\bin\Discipleship.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush\Discipleship\Discipleship\bin\Discipleship.pdb
+C:\Users\paran\OneDrive\Desktop\Burning Bush\Discipleship\Discipleship\bin\roslyn\csc.exe
+C:\Users\paran\OneDrive\Desktop\Burning Bush\Discipleship\Discipleship\bin\roslyn\csc.exe.config
+C:\Users\paran\OneDrive\Desktop\Burning Bush\Discipleship\Discipleship\bin\roslyn\csc.rsp
+C:\Users\paran\OneDrive\Desktop\Burning Bush\Discipleship\Discipleship\bin\roslyn\csi.exe
+C:\Users\paran\OneDrive\Desktop\Burning Bush\Discipleship\Discipleship\bin\roslyn\csi.exe.config
+C:\Users\paran\OneDrive\Desktop\Burning Bush\Discipleship\Discipleship\bin\roslyn\csi.rsp
+C:\Users\paran\OneDrive\Desktop\Burning Bush\Discipleship\Discipleship\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush\Discipleship\Discipleship\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush\Discipleship\Discipleship\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush\Discipleship\Discipleship\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush\Discipleship\Discipleship\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush\Discipleship\Discipleship\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush\Discipleship\Discipleship\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\paran\OneDrive\Desktop\Burning Bush\Discipleship\Discipleship\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush\Discipleship\Discipleship\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush\Discipleship\Discipleship\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\paran\OneDrive\Desktop\Burning Bush\Discipleship\Discipleship\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\paran\OneDrive\Desktop\Burning Bush\Discipleship\Discipleship\bin\roslyn\System.AppContext.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush\Discipleship\Discipleship\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush\Discipleship\Discipleship\bin\roslyn\System.Console.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush\Discipleship\Discipleship\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush\Discipleship\Discipleship\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush\Discipleship\Discipleship\bin\roslyn\System.IO.Compression.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush\Discipleship\Discipleship\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush\Discipleship\Discipleship\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush\Discipleship\Discipleship\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush\Discipleship\Discipleship\bin\roslyn\System.IO.Pipes.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush\Discipleship\Discipleship\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush\Discipleship\Discipleship\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush\Discipleship\Discipleship\bin\roslyn\System.Security.Claims.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush\Discipleship\Discipleship\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush\Discipleship\Discipleship\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush\Discipleship\Discipleship\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush\Discipleship\Discipleship\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush\Discipleship\Discipleship\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush\Discipleship\Discipleship\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush\Discipleship\Discipleship\bin\roslyn\System.ValueTuple.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush\Discipleship\Discipleship\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush\Discipleship\Discipleship\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush\Discipleship\Discipleship\bin\roslyn\System.Xml.XPath.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush\Discipleship\Discipleship\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush\Discipleship\Discipleship\bin\roslyn\vbc.exe
+C:\Users\paran\OneDrive\Desktop\Burning Bush\Discipleship\Discipleship\bin\roslyn\vbc.exe.config
+C:\Users\paran\OneDrive\Desktop\Burning Bush\Discipleship\Discipleship\bin\roslyn\vbc.rsp
+C:\Users\paran\OneDrive\Desktop\Burning Bush\Discipleship\Discipleship\bin\roslyn\VBCSCompiler.exe
+C:\Users\paran\OneDrive\Desktop\Burning Bush\Discipleship\Discipleship\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\paran\OneDrive\Desktop\Burning Bush\Discipleship\Discipleship\bin\Antlr3.Runtime.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush\Discipleship\Discipleship\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush\Discipleship\Discipleship\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush\Discipleship\Discipleship\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush\Discipleship\Discipleship\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush\Discipleship\Discipleship\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush\Discipleship\Discipleship\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush\Discipleship\Discipleship\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush\Discipleship\Discipleship\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush\Discipleship\Discipleship\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush\Discipleship\Discipleship\bin\Newtonsoft.Json.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush\Discipleship\Discipleship\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush\Discipleship\Discipleship\bin\System.Web.Optimization.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush\Discipleship\Discipleship\bin\WebGrease.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush\Discipleship\Discipleship\bin\System.Web.Optimization.xml
+C:\Users\paran\OneDrive\Desktop\Burning Bush\Discipleship\Discipleship\bin\Newtonsoft.Json.xml
+C:\Users\paran\OneDrive\Desktop\Burning Bush\Discipleship\Discipleship\bin\Antlr3.Runtime.pdb
+C:\Users\paran\OneDrive\Desktop\Burning Bush\Discipleship\Discipleship\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\paran\OneDrive\Desktop\Burning Bush\Discipleship\Discipleship\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\paran\OneDrive\Desktop\Burning Bush\Discipleship\Discipleship\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\paran\OneDrive\Desktop\Burning Bush\Discipleship\Discipleship\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\paran\OneDrive\Desktop\Burning Bush\Discipleship\Discipleship\obj\Debug\Discipleship.csprojAssemblyReference.cache
+C:\Users\paran\OneDrive\Desktop\Burning Bush\Discipleship\Discipleship\obj\Debug\Discipleship.csproj.CoreCompileInputs.cache
+C:\Users\paran\OneDrive\Desktop\Burning Bush\Discipleship\Discipleship\obj\Debug\Discipleship.csproj.CopyComplete
+C:\Users\paran\OneDrive\Desktop\Burning Bush\Discipleship\Discipleship\obj\Debug\Discipleship.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush\Discipleship\Discipleship\obj\Debug\Discipleship.pdb
+C:\Users\paran\OneDrive\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\Discipleship.dll.config
+C:\Users\paran\OneDrive\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\Discipleship.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\Discipleship.pdb
+C:\Users\paran\OneDrive\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\csc.exe
+C:\Users\paran\OneDrive\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\csc.exe.config
+C:\Users\paran\OneDrive\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\csc.rsp
+C:\Users\paran\OneDrive\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\csi.exe
+C:\Users\paran\OneDrive\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\csi.exe.config
+C:\Users\paran\OneDrive\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\csi.rsp
+C:\Users\paran\OneDrive\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\paran\OneDrive\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\paran\OneDrive\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\paran\OneDrive\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.AppContext.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.Console.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.IO.Compression.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.IO.Pipes.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.Security.Claims.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.ValueTuple.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.Xml.XPath.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\vbc.exe
+C:\Users\paran\OneDrive\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\vbc.exe.config
+C:\Users\paran\OneDrive\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\vbc.rsp
+C:\Users\paran\OneDrive\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\VBCSCompiler.exe
+C:\Users\paran\OneDrive\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\paran\OneDrive\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\Antlr3.Runtime.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\Newtonsoft.Json.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\System.Web.Optimization.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\WebGrease.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\System.Web.Optimization.xml
+C:\Users\paran\OneDrive\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\Newtonsoft.Json.xml
+C:\Users\paran\OneDrive\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\Antlr3.Runtime.pdb
+C:\Users\paran\OneDrive\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\paran\OneDrive\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\paran\OneDrive\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\paran\OneDrive\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\paran\OneDrive\Desktop\Burning Bush - Copy\Discipleship\Discipleship\obj\Debug\Discipleship.csprojAssemblyReference.cache
+C:\Users\paran\OneDrive\Desktop\Burning Bush - Copy\Discipleship\Discipleship\obj\Debug\Discipleship.csproj.CoreCompileInputs.cache
+C:\Users\paran\OneDrive\Desktop\Burning Bush - Copy\Discipleship\Discipleship\obj\Debug\Discipleship.csproj.CopyComplete
+C:\Users\paran\OneDrive\Desktop\Burning Bush - Copy\Discipleship\Discipleship\obj\Debug\Discipleship.dll
+C:\Users\paran\OneDrive\Desktop\Burning Bush - Copy\Discipleship\Discipleship\obj\Debug\Discipleship.pdb
+E:\Burning Bush - Copy\Discipleship\Discipleship\bin\Discipleship.dll.config
+E:\Burning Bush - Copy\Discipleship\Discipleship\bin\Discipleship.dll
+E:\Burning Bush - Copy\Discipleship\Discipleship\bin\Discipleship.pdb
+E:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\csc.exe
+E:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\csc.exe.config
+E:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\csc.rsp
+E:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\csi.exe
+E:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\csi.exe.config
+E:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\csi.rsp
+E:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.AppContext.dll
+E:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.Collections.Immutable.dll
+E:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.Console.dll
+E:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.IO.Compression.dll
+E:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.IO.FileSystem.dll
+E:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.IO.Pipes.dll
+E:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.Reflection.Metadata.dll
+E:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.Security.AccessControl.dll
+E:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.Security.Claims.dll
+E:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.ValueTuple.dll
+E:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.Xml.XPath.dll
+E:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\vbc.exe
+E:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\vbc.exe.config
+E:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\vbc.rsp
+E:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\VBCSCompiler.exe
+E:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\VBCSCompiler.exe.config
+E:\Burning Bush - Copy\Discipleship\Discipleship\bin\Antlr3.Runtime.dll
+E:\Burning Bush - Copy\Discipleship\Discipleship\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Burning Bush - Copy\Discipleship\Discipleship\bin\AspNet.ScriptManager.jQuery.dll
+E:\Burning Bush - Copy\Discipleship\Discipleship\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Burning Bush - Copy\Discipleship\Discipleship\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\Burning Bush - Copy\Discipleship\Discipleship\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Burning Bush - Copy\Discipleship\Discipleship\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Burning Bush - Copy\Discipleship\Discipleship\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Burning Bush - Copy\Discipleship\Discipleship\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Burning Bush - Copy\Discipleship\Discipleship\bin\Microsoft.Web.Infrastructure.dll
+E:\Burning Bush - Copy\Discipleship\Discipleship\bin\Newtonsoft.Json.dll
+E:\Burning Bush - Copy\Discipleship\Discipleship\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Burning Bush - Copy\Discipleship\Discipleship\bin\System.Web.Optimization.dll
+E:\Burning Bush - Copy\Discipleship\Discipleship\bin\WebGrease.dll
+E:\Burning Bush - Copy\Discipleship\Discipleship\bin\System.Web.Optimization.xml
+E:\Burning Bush - Copy\Discipleship\Discipleship\bin\Newtonsoft.Json.xml
+E:\Burning Bush - Copy\Discipleship\Discipleship\bin\Antlr3.Runtime.pdb
+E:\Burning Bush - Copy\Discipleship\Discipleship\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Burning Bush - Copy\Discipleship\Discipleship\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Burning Bush - Copy\Discipleship\Discipleship\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\Burning Bush - Copy\Discipleship\Discipleship\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Burning Bush - Copy\Discipleship\Discipleship\obj\Debug\Discipleship.csprojAssemblyReference.cache
+E:\Burning Bush - Copy\Discipleship\Discipleship\obj\Debug\Discipleship.csproj.CoreCompileInputs.cache
+E:\Burning Bush - Copy\Discipleship\Discipleship\obj\Debug\Discipleship.csproj.CopyComplete
+E:\Burning Bush - Copy\Discipleship\Discipleship\obj\Debug\Discipleship.dll
+E:\Burning Bush - Copy\Discipleship\Discipleship\obj\Debug\Discipleship.pdb
+F:\Burning Bush - Copy\Discipleship\Discipleship\bin\Discipleship.dll.config
+F:\Burning Bush - Copy\Discipleship\Discipleship\bin\Discipleship.dll
+F:\Burning Bush - Copy\Discipleship\Discipleship\bin\Discipleship.pdb
+F:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\csc.exe
+F:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\csc.exe.config
+F:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\csc.rsp
+F:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\csi.exe
+F:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\csi.exe.config
+F:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\csi.rsp
+F:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.AppContext.dll
+F:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.Collections.Immutable.dll
+F:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.Console.dll
+F:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.IO.Compression.dll
+F:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.IO.FileSystem.dll
+F:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.IO.Pipes.dll
+F:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.Reflection.Metadata.dll
+F:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.Security.AccessControl.dll
+F:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.Security.Claims.dll
+F:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.Security.Principal.Windows.dll
+F:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.ValueTuple.dll
+F:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.Xml.XPath.dll
+F:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\vbc.exe
+F:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\vbc.exe.config
+F:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\vbc.rsp
+F:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\VBCSCompiler.exe
+F:\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\VBCSCompiler.exe.config
+F:\Burning Bush - Copy\Discipleship\Discipleship\bin\Antlr3.Runtime.dll
+F:\Burning Bush - Copy\Discipleship\Discipleship\bin\AspNet.ScriptManager.bootstrap.dll
+F:\Burning Bush - Copy\Discipleship\Discipleship\bin\AspNet.ScriptManager.jQuery.dll
+F:\Burning Bush - Copy\Discipleship\Discipleship\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\Burning Bush - Copy\Discipleship\Discipleship\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+F:\Burning Bush - Copy\Discipleship\Discipleship\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\Burning Bush - Copy\Discipleship\Discipleship\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Burning Bush - Copy\Discipleship\Discipleship\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\Burning Bush - Copy\Discipleship\Discipleship\bin\Microsoft.ScriptManager.WebForms.dll
+F:\Burning Bush - Copy\Discipleship\Discipleship\bin\Microsoft.Web.Infrastructure.dll
+F:\Burning Bush - Copy\Discipleship\Discipleship\bin\Newtonsoft.Json.dll
+F:\Burning Bush - Copy\Discipleship\Discipleship\bin\System.Diagnostics.DiagnosticSource.dll
+F:\Burning Bush - Copy\Discipleship\Discipleship\bin\System.Web.Optimization.dll
+F:\Burning Bush - Copy\Discipleship\Discipleship\bin\WebGrease.dll
+F:\Burning Bush - Copy\Discipleship\Discipleship\bin\System.Web.Optimization.xml
+F:\Burning Bush - Copy\Discipleship\Discipleship\bin\Newtonsoft.Json.xml
+F:\Burning Bush - Copy\Discipleship\Discipleship\bin\Antlr3.Runtime.pdb
+F:\Burning Bush - Copy\Discipleship\Discipleship\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\Burning Bush - Copy\Discipleship\Discipleship\bin\System.Diagnostics.DiagnosticSource.xml
+F:\Burning Bush - Copy\Discipleship\Discipleship\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+F:\Burning Bush - Copy\Discipleship\Discipleship\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Burning Bush - Copy\Discipleship\Discipleship\obj\Debug\Discipleship.csprojAssemblyReference.cache
+F:\Burning Bush - Copy\Discipleship\Discipleship\obj\Debug\Discipleship.csproj.CoreCompileInputs.cache
+F:\Burning Bush - Copy\Discipleship\Discipleship\obj\Debug\Discipleship.csproj.CopyComplete
+F:\Burning Bush - Copy\Discipleship\Discipleship\obj\Debug\Discipleship.dll
+F:\Burning Bush - Copy\Discipleship\Discipleship\obj\Debug\Discipleship.pdb
+G:\Files\Burning Bush - Copy\Discipleship\Discipleship\bin\Discipleship.dll.config
+G:\Files\Burning Bush - Copy\Discipleship\Discipleship\bin\Discipleship.dll
+G:\Files\Burning Bush - Copy\Discipleship\Discipleship\bin\Discipleship.pdb
+G:\Files\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\csc.exe
+G:\Files\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\csc.exe.config
+G:\Files\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\csc.rsp
+G:\Files\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\csi.exe
+G:\Files\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\csi.exe.config
+G:\Files\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\csi.rsp
+G:\Files\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Files\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Files\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Files\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Files\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\Files\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Files\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Files\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\Files\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\Files\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\Microsoft.Managed.Core.targets
+G:\Files\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Files\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.AppContext.dll
+G:\Files\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.Collections.Immutable.dll
+G:\Files\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.Console.dll
+G:\Files\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\Files\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\Files\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.IO.Compression.dll
+G:\Files\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.IO.FileSystem.dll
+G:\Files\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\Files\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\Files\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.IO.Pipes.dll
+G:\Files\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.Reflection.Metadata.dll
+G:\Files\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.Security.AccessControl.dll
+G:\Files\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.Security.Claims.dll
+G:\Files\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\Files\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\Files\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\Files\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\Files\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.Security.Principal.Windows.dll
+G:\Files\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\Files\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.ValueTuple.dll
+G:\Files\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\Files\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.Xml.XmlDocument.dll
+G:\Files\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.Xml.XPath.dll
+G:\Files\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\Files\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\vbc.exe
+G:\Files\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\vbc.exe.config
+G:\Files\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\vbc.rsp
+G:\Files\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\VBCSCompiler.exe
+G:\Files\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\VBCSCompiler.exe.config
+G:\Files\Burning Bush - Copy\Discipleship\Discipleship\bin\Antlr3.Runtime.dll
+G:\Files\Burning Bush - Copy\Discipleship\Discipleship\bin\AspNet.ScriptManager.bootstrap.dll
+G:\Files\Burning Bush - Copy\Discipleship\Discipleship\bin\AspNet.ScriptManager.jQuery.dll
+G:\Files\Burning Bush - Copy\Discipleship\Discipleship\bin\Microsoft.AspNet.FriendlyUrls.dll
+G:\Files\Burning Bush - Copy\Discipleship\Discipleship\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+G:\Files\Burning Bush - Copy\Discipleship\Discipleship\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+G:\Files\Burning Bush - Copy\Discipleship\Discipleship\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Files\Burning Bush - Copy\Discipleship\Discipleship\bin\Microsoft.ScriptManager.MSAjax.dll
+G:\Files\Burning Bush - Copy\Discipleship\Discipleship\bin\Microsoft.ScriptManager.WebForms.dll
+G:\Files\Burning Bush - Copy\Discipleship\Discipleship\bin\Microsoft.Web.Infrastructure.dll
+G:\Files\Burning Bush - Copy\Discipleship\Discipleship\bin\Newtonsoft.Json.dll
+G:\Files\Burning Bush - Copy\Discipleship\Discipleship\bin\System.Diagnostics.DiagnosticSource.dll
+G:\Files\Burning Bush - Copy\Discipleship\Discipleship\bin\System.Web.Optimization.dll
+G:\Files\Burning Bush - Copy\Discipleship\Discipleship\bin\WebGrease.dll
+G:\Files\Burning Bush - Copy\Discipleship\Discipleship\bin\System.Web.Optimization.xml
+G:\Files\Burning Bush - Copy\Discipleship\Discipleship\bin\Newtonsoft.Json.xml
+G:\Files\Burning Bush - Copy\Discipleship\Discipleship\bin\Antlr3.Runtime.pdb
+G:\Files\Burning Bush - Copy\Discipleship\Discipleship\bin\Microsoft.AspNet.FriendlyUrls.xml
+G:\Files\Burning Bush - Copy\Discipleship\Discipleship\bin\System.Diagnostics.DiagnosticSource.xml
+G:\Files\Burning Bush - Copy\Discipleship\Discipleship\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+G:\Files\Burning Bush - Copy\Discipleship\Discipleship\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Files\Burning Bush - Copy\Discipleship\Discipleship\obj\Debug\Discipleship.csprojAssemblyReference.cache
+G:\Files\Burning Bush - Copy\Discipleship\Discipleship\obj\Debug\Discipleship.csproj.CoreCompileInputs.cache
+G:\Files\Burning Bush - Copy\Discipleship\Discipleship\obj\Debug\Discipleship.csproj.CopyComplete
+G:\Files\Burning Bush - Copy\Discipleship\Discipleship\obj\Debug\Discipleship.dll
+G:\Files\Burning Bush - Copy\Discipleship\Discipleship\obj\Debug\Discipleship.pdb
+C:\Users\s218029829\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\Discipleship.dll.config
+C:\Users\s218029829\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\Discipleship.dll
+C:\Users\s218029829\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\Discipleship.pdb
+C:\Users\s218029829\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\csc.exe
+C:\Users\s218029829\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\csc.exe.config
+C:\Users\s218029829\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\csc.rsp
+C:\Users\s218029829\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\csi.exe
+C:\Users\s218029829\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\csi.exe.config
+C:\Users\s218029829\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\csi.rsp
+C:\Users\s218029829\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\s218029829\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\s218029829\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\s218029829\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\s218029829\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\s218029829\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\s218029829\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\s218029829\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\s218029829\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\s218029829\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\s218029829\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\s218029829\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.AppContext.dll
+C:\Users\s218029829\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\s218029829\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.Console.dll
+C:\Users\s218029829\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\s218029829\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\s218029829\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.IO.Compression.dll
+C:\Users\s218029829\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\s218029829\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\s218029829\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\s218029829\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.IO.Pipes.dll
+C:\Users\s218029829\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\s218029829\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\s218029829\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.Security.Claims.dll
+C:\Users\s218029829\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\s218029829\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\s218029829\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\s218029829\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\s218029829\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\s218029829\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\s218029829\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.ValueTuple.dll
+C:\Users\s218029829\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\s218029829\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\s218029829\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.Xml.XPath.dll
+C:\Users\s218029829\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\s218029829\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\vbc.exe
+C:\Users\s218029829\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\vbc.exe.config
+C:\Users\s218029829\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\vbc.rsp
+C:\Users\s218029829\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\VBCSCompiler.exe
+C:\Users\s218029829\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\s218029829\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\Antlr3.Runtime.dll
+C:\Users\s218029829\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\s218029829\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\s218029829\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\s218029829\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\s218029829\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\s218029829\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\s218029829\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\s218029829\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\s218029829\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\s218029829\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\Newtonsoft.Json.dll
+C:\Users\s218029829\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\s218029829\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\System.Web.Optimization.dll
+C:\Users\s218029829\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\WebGrease.dll
+C:\Users\s218029829\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\System.Web.Optimization.xml
+C:\Users\s218029829\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\Newtonsoft.Json.xml
+C:\Users\s218029829\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\Antlr3.Runtime.pdb
+C:\Users\s218029829\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\s218029829\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\s218029829\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\s218029829\Desktop\Burning Bush - Copy\Discipleship\Discipleship\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\s218029829\Desktop\Burning Bush - Copy\Discipleship\Discipleship\obj\Debug\Discipleship.csprojAssemblyReference.cache
+C:\Users\s218029829\Desktop\Burning Bush - Copy\Discipleship\Discipleship\obj\Debug\Discipleship.csproj.CoreCompileInputs.cache
+C:\Users\s218029829\Desktop\Burning Bush - Copy\Discipleship\Discipleship\obj\Debug\Discipleship.csproj.CopyComplete
+C:\Users\s218029829\Desktop\Burning Bush - Copy\Discipleship\Discipleship\obj\Debug\Discipleship.dll
+C:\Users\s218029829\Desktop\Burning Bush - Copy\Discipleship\Discipleship\obj\Debug\Discipleship.pdb
+C:\Users\Lindani Mabaso\Downloads\Discipleship-20190722T195507Z-001\Discipleship\Discipleship\obj\Debug\Discipleship.csproj.CoreCompileInputs.cache
+C:\Users\Lindani Mabaso\Downloads\DiscipleshipTracker_Latest\Discipleship\bin\Discipleship.dll.config
+C:\Users\Lindani Mabaso\Downloads\DiscipleshipTracker_Latest\Discipleship\bin\Discipleship.dll
+C:\Users\Lindani Mabaso\Downloads\DiscipleshipTracker_Latest\Discipleship\bin\Discipleship.pdb
+C:\Users\Lindani Mabaso\Downloads\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\csc.exe
+C:\Users\Lindani Mabaso\Downloads\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\csc.exe.config
+C:\Users\Lindani Mabaso\Downloads\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\csc.rsp
+C:\Users\Lindani Mabaso\Downloads\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\csi.exe
+C:\Users\Lindani Mabaso\Downloads\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\csi.exe.config
+C:\Users\Lindani Mabaso\Downloads\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\csi.rsp
+C:\Users\Lindani Mabaso\Downloads\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lindani Mabaso\Downloads\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lindani Mabaso\Downloads\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lindani Mabaso\Downloads\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lindani Mabaso\Downloads\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lindani Mabaso\Downloads\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lindani Mabaso\Downloads\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lindani Mabaso\Downloads\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lindani Mabaso\Downloads\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lindani Mabaso\Downloads\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Lindani Mabaso\Downloads\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lindani Mabaso\Downloads\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\System.AppContext.dll
+C:\Users\Lindani Mabaso\Downloads\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lindani Mabaso\Downloads\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\System.Console.dll
+C:\Users\Lindani Mabaso\Downloads\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lindani Mabaso\Downloads\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lindani Mabaso\Downloads\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lindani Mabaso\Downloads\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lindani Mabaso\Downloads\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lindani Mabaso\Downloads\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Lindani Mabaso\Downloads\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Lindani Mabaso\Downloads\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lindani Mabaso\Downloads\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Lindani Mabaso\Downloads\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\System.Security.Claims.dll
+C:\Users\Lindani Mabaso\Downloads\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lindani Mabaso\Downloads\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lindani Mabaso\Downloads\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lindani Mabaso\Downloads\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lindani Mabaso\Downloads\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Lindani Mabaso\Downloads\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lindani Mabaso\Downloads\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lindani Mabaso\Downloads\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lindani Mabaso\Downloads\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lindani Mabaso\Downloads\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lindani Mabaso\Downloads\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lindani Mabaso\Downloads\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\vbc.exe
+C:\Users\Lindani Mabaso\Downloads\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\vbc.exe.config
+C:\Users\Lindani Mabaso\Downloads\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\vbc.rsp
+C:\Users\Lindani Mabaso\Downloads\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lindani Mabaso\Downloads\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lindani Mabaso\Downloads\DiscipleshipTracker_Latest\Discipleship\bin\Antlr3.Runtime.dll
+C:\Users\Lindani Mabaso\Downloads\DiscipleshipTracker_Latest\Discipleship\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Lindani Mabaso\Downloads\DiscipleshipTracker_Latest\Discipleship\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Lindani Mabaso\Downloads\DiscipleshipTracker_Latest\Discipleship\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Lindani Mabaso\Downloads\DiscipleshipTracker_Latest\Discipleship\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Lindani Mabaso\Downloads\DiscipleshipTracker_Latest\Discipleship\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Lindani Mabaso\Downloads\DiscipleshipTracker_Latest\Discipleship\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lindani Mabaso\Downloads\DiscipleshipTracker_Latest\Discipleship\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Lindani Mabaso\Downloads\DiscipleshipTracker_Latest\Discipleship\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Lindani Mabaso\Downloads\DiscipleshipTracker_Latest\Discipleship\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lindani Mabaso\Downloads\DiscipleshipTracker_Latest\Discipleship\bin\Newtonsoft.Json.dll
+C:\Users\Lindani Mabaso\Downloads\DiscipleshipTracker_Latest\Discipleship\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lindani Mabaso\Downloads\DiscipleshipTracker_Latest\Discipleship\bin\System.Web.Optimization.dll
+C:\Users\Lindani Mabaso\Downloads\DiscipleshipTracker_Latest\Discipleship\bin\WebGrease.dll
+C:\Users\Lindani Mabaso\Downloads\DiscipleshipTracker_Latest\Discipleship\bin\System.Web.Optimization.xml
+C:\Users\Lindani Mabaso\Downloads\DiscipleshipTracker_Latest\Discipleship\bin\Newtonsoft.Json.xml
+C:\Users\Lindani Mabaso\Downloads\DiscipleshipTracker_Latest\Discipleship\bin\Antlr3.Runtime.pdb
+C:\Users\Lindani Mabaso\Downloads\DiscipleshipTracker_Latest\Discipleship\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Lindani Mabaso\Downloads\DiscipleshipTracker_Latest\Discipleship\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Lindani Mabaso\Downloads\DiscipleshipTracker_Latest\Discipleship\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Lindani Mabaso\Downloads\DiscipleshipTracker_Latest\Discipleship\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lindani Mabaso\Downloads\DiscipleshipTracker_Latest\Discipleship\obj\Debug\Discipleship.csproj.CoreCompileInputs.cache
+C:\Users\Lindani Mabaso\Downloads\DiscipleshipTracker_Latest\Discipleship\obj\Debug\Discipleship.csproj.CopyComplete
+C:\Users\Lindani Mabaso\Downloads\DiscipleshipTracker_Latest\Discipleship\obj\Debug\Discipleship.dll
+C:\Users\Lindani Mabaso\Downloads\DiscipleshipTracker_Latest\Discipleship\obj\Debug\Discipleship.pdb
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\Discipleship.dll.config
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\Discipleship.dll
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\Discipleship.pdb
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\csc.exe
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\csc.exe.config
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\csc.rsp
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\csi.exe
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\csi.exe.config
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\csi.rsp
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\System.AppContext.dll
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\System.Console.dll
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\System.IO.Compression.dll
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\System.Security.Claims.dll
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\System.ValueTuple.dll
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\vbc.exe
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\vbc.exe.config
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\vbc.rsp
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\VBCSCompiler.exe
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\Antlr3.Runtime.dll
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\Newtonsoft.Json.dll
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\System.Web.Optimization.dll
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\WebGrease.dll
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\System.Web.Optimization.xml
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\Newtonsoft.Json.xml
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\Antlr3.Runtime.pdb
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\obj\Debug\Discipleship.csproj.CopyComplete
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\obj\Debug\Discipleship.dll
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\obj\Debug\Discipleship.pdb
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\LibExcel.dll
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\Stimulsoft.Base.dll
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\Stimulsoft.Controls.dll
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\Stimulsoft.Controls.Win.dll
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\Stimulsoft.Data.dll
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\Stimulsoft.Database.dll
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\Stimulsoft.Design.dll
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\Stimulsoft.Editor.dll
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\Stimulsoft.Map.dll
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\Stimulsoft.Report.Check.dll
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\Stimulsoft.Report.Design.dll
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\Stimulsoft.Report.dll
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\Stimulsoft.Report.Helper.dll
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\Stimulsoft.Report.Web.dll
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\Stimulsoft.Report.Win.dll
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\Svg.dll
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\ADODB.dll
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\Stimulsoft.Base.pdb
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\Stimulsoft.Base.xml
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\Stimulsoft.Controls.pdb
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\Stimulsoft.Controls.xml
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\Stimulsoft.Controls.Win.pdb
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\Stimulsoft.Controls.Win.xml
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\Stimulsoft.Data.pdb
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\Stimulsoft.Data.xml
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\Stimulsoft.Database.pdb
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\Stimulsoft.Database.xml
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\Stimulsoft.Design.pdb
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\Stimulsoft.Design.xml
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\Stimulsoft.Editor.pdb
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\Stimulsoft.Editor.xml
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\Stimulsoft.Map.pdb
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\Stimulsoft.Map.xml
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\Stimulsoft.Report.pdb
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\Stimulsoft.Report.xml
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\Stimulsoft.Report.Check.pdb
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\Stimulsoft.Report.Check.xml
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\Stimulsoft.Report.Design.pdb
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\Stimulsoft.Report.Design.xml
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\Stimulsoft.Report.Helper.pdb
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\Stimulsoft.Report.Helper.xml
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\Stimulsoft.Report.Web.pdb
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\Stimulsoft.Report.Web.xml
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\Stimulsoft.Report.Win.pdb
+C:\Users\Retro\Documents\Lidz\DiscipleshipTracker_Latest\Discipleship\bin\Stimulsoft.Report.Win.xml
